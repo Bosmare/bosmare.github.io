@@ -41,4 +41,4 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title: Alkuun
-  url: "/#top"
+  url: "./#top"
