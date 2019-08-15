@@ -35,10 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Etusivu
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Ajanvaraus
+  url: /ajanvaraus
 
 # Footer nav
 navigation_footer:
