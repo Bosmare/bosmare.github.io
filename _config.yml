@@ -33,7 +33,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Etusivu
   url: /
 - title: About
   url: /about/
