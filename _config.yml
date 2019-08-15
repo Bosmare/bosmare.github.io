@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Lempeä Liekki'
 description: 'Thaihierontaa ja Joogaohjausta'
 permalink: pretty
-logo: "https://github.com/Bosmare/bosmare.github.io/edit/master/GentleFlame.svg"
+logo: "https://bosmare.github.io/edit/master/GentleFlame.svg"
 
 # Pagination
 paginate: 5
