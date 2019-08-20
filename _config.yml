@@ -23,17 +23,13 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Lempeä Liekki'
-description: 'Thaihierontaa ja Joogaohjausta'
+description: 'Lämpöä ja hyvinvointia'
 permalink: pretty
 logo: "/assets/GentleFlame.svg"
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
-
 # Header nav
 navigation_header:
-- title: Esittely
+- title: Etusivu
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus
@@ -41,4 +37,4 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title: Alkuun
-  url: "./#top"
+  url: "#top"
