@@ -3,7 +3,7 @@ title: Esittely
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Lempeä Liekki :)
+  ## Lempeä Liekki - Lämpöä ja Hyvinvointia
 ---
 
-Tarjoan Thaihierontaa ja Joogaohjausta
+Tahdon tukea matkaasi kohti laajempaa, syvempää ja vakaampaa hyvinvointia. Otetaan yhdessä hetki sinulle, niin matkasi jatkuu keveämmin. Tarjoan tällä hetkellä joogaohjausta, thaihierontaa ja teeseremonioita. Tapaamisten yhteydessä voit myös kertoa kuulumisiasi, tai jos tahdot voidaan pallotella ideoita edistämiseksi arjessasi.
