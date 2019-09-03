@@ -10,4 +10,8 @@ $linkColour: #ffe427 !default;
 $headingColour: #ff5000 !default;
 $bodyColour: #ff5000 !default;
 
+button {
+	backgroundColour: #ff5000;
+}
+
 @import "alembic";
