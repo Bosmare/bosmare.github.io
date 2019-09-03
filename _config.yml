@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'bosmare.github.io'
 baseurl: ''
 title: 'Lempeä Liekki'
 description: 'Lämpöä ja hyvinvointia'
@@ -31,10 +31,8 @@ logo: "/assets/GentleFlame.svg"
 navigation_header:
 - title: Etusivu
   url: /
-- title: Ajanvaraus
-  url: /ajanvaraus
 
 # Footer nav
-navigation_footer:
-- title: Alkuun
-  url: "#top"
+#navigation_footer:
+#- title: Alkuun
+#  url: "#top"
