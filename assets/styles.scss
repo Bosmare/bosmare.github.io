@@ -11,7 +11,8 @@ $headingColour: #ff5000 !default;
 $bodyColour: #ff5000 !default;
 
 button {
-	background: #ff5000;
+	background-color: #ff5000;
+	margin-bottom: 0;
 }
 
 @import "alembic";
