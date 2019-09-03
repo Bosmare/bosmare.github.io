@@ -11,7 +11,7 @@ Tahdon tukea matkaasi kohti laajempaa, syvempää ja vakaampaa hyvinvointia. Ote
 
 <script id="setmore_script" type="text/javascript" src="https://my.setmore.com/webapp/js/src/others/setmore_iframe.js"></script>
 <a id="Setmore_button_iframe" style="float:none; position: fixed; right: -2px; top: 25%; display: block; z-index: 20000" href="https://my.setmore.com/bookingpage/db6c83d3-e5b8-4e34-acf7-454090d0f3dc">
-	<button type="button">
+	<button type="button" style="transform: rotate(90deg)">
 		Varaa aika
 	</button>
 </a>
