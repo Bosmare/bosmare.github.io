@@ -45,4 +45,5 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Liekki
+- title: Alkuun
+  url: "#top"
