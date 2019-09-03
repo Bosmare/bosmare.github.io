@@ -17,6 +17,6 @@ Tahdon tukea matkaasi kohti laajempaa, syvempää ja vakaampaa hyvinvointia. Ote
 </a>
 
 
-{% comment}
+{% comment %}
 <img border="none" src="https://my.setmore.com/webapp/images/bookappt/Setmore-Book-Now.png" alt="Book an appointment with Lempeä Liekki using SetMore" /></a>
-{% endcomment}
+{% endcomment %}
