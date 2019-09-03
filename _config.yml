@@ -33,6 +33,5 @@ navigation_header:
   url: /
 
 # Footer nav
-#navigation_footer:
-#- title: Alkuun
-#  url: "#top"
+navigation_footer:
+- title: Liekki
