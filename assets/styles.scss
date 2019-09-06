@@ -12,8 +12,8 @@ $captionColour: #ffe427 !default;
 $headingColour: #ff5000 !default;
 $bodyColour: #ff5000 !default;
 
-button {
-	margin-bottom: 0;
+.acuity_iframe{
+	filter(url("/assets/booking_filter.svg"))
 }
 
 @import "alembic";
