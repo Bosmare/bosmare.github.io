@@ -12,6 +12,6 @@ feature_text: |
 	width="100%"
 	height="800"
 	frameBorder="0"
-	style="filter: blur(100px)">		
+	style="filter: url(/assets/booking_filter.svg#booking_filter">		
 </iframe>
 <script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
