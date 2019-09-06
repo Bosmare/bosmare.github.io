@@ -1,7 +1,7 @@
 ---
 title: Etusivu
 layout: page
-feature_image: "/assets/lyhdyt.png"
+feature_image: "/assets/lyhdyt_1300x400.png"
 feature_text: |
  # Lempeä Liekki
  ### Lämpöä ja hyvinvointia
