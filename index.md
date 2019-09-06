@@ -1,7 +1,7 @@
 ---
 layout: page
 feature_image: "/assets/lyhdyt_1300x400.png"
-feature_text: "
+feature_text: "|
 	## Lempeä Liekki
 	Lämpöä ja Hyvinvointia
 "
