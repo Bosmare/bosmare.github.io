@@ -13,7 +13,7 @@ $headingColour: #ff5000 !default;
 $bodyColour: #ff5000 !default;
 
 .acuity_iframe{
-	filter(url("/assets/booking_filter.svg"))
+	filter: url("/assets/booking_filter.svg")
 }
 
 @import "alembic";
