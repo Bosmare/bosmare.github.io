@@ -1,10 +1,8 @@
 ---
 title: Ajanvaraus
 layout: page
-feature_image: "/assets/lyhdyt.png"
-feature_text: |
- # Lempeä Liekki
- ### Lämpöä ja hyvinvointia
+feature_image: ""
+feature_text: ""
 ---
 
 <iframe
