@@ -8,6 +8,6 @@ Kutsun sinut ottamaan yhdessä rauhaisan hetken itsellesi. Olet tervetullut sell
 
 Tarjoan tällä hetkellä Thaihierontaa, Joogaa sekä Teeseremonioita. Näillä harjotteilla on kullakin juuret jossakin muinaisessa henkisessä perinteessä kuten Buddhalaisuus, Hindulaisuus, Taolaisuus ja Zen. En kuitenkaan kuulu mihinkään näistä perinteistä, eivätkä mielestäni kuulu itse harjoitteetkaan. Kuitenkin uskon, että näitä harjotteilla on arvokkaita vaikutuksia, jotka menevät pintaa syvemmälle, ja että niitä on sen vuoksi perinteissä käytetty. Uskokoot kukin mihin tahtoo, mutta toivon että saat mukaasi enemmän kuin odotitkaan.
 
-Lämpimin terveisin
-Bosco Martínez
+Lämpimin terveisin  
+Bosco Martínez  
 Lempeä Liekki
