@@ -12,6 +12,7 @@ Tarjoan tällä hetkellä Thaihierontaa ja Joogaa, mutta pian myös Teeseremonio
 	<a href="https://lempealiekki.fi/ajanvaraus" class="acuity-embed-button" style="background: #ff5000; color: #401f02; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block; text-shadow: none; font-weight: 600; float: right;">Ajanvaraus</a><link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/18231920.css" id="acuity-button-styles" />
 </div>
 
+
 ![Omakuva](/assets/omakuva.jpg){:class="img-responsive"}  
 Lämpimin terveisin  
 Bosco Martínez  
