@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 p {
-  font-feature-settings: "kern", "liga" !important; }
+  font-feature-settings: "kern", "liga" !important;
+  font-size: 90% !important; }
 
 .acuity_iframe {
   filter: url("/assets/booking_filter.svg"); }
@@ -18,7 +19,7 @@ p {
   background-color: #e7bb50;
   font-family: Cabin;
   font-weight: 700;
-  font-size: 24px; }
+  font-size: 120%; }
   .header img {
     margin-top: -30px;
     margin-bottom: -30px; }
@@ -26,7 +27,7 @@ p {
     padding: 0px !important; }
 
 .item {
-  padding: 8px 5px; }
+  padding: 12px 5px; }
 
 .item--current {
   background-color: #eedea2;
