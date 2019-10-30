@@ -46,6 +46,8 @@ navigation_header:
   url: /ajanvaraus/
 - title: Yhteystiedot
   url: /yhteystiedot/
+- title: Kuvat
+  url: /kuvat/
 
 # 6. Jekyll collections settings
 defaults:
