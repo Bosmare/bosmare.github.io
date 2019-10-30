@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 p {
   font-feature-settings: "kern", "liga" !important;
-  font-size: 90% !important; }
+  font-size: 82.5% !important; }
 
 .acuity_iframe {
   filter: url("/assets/booking_filter.svg"); }
