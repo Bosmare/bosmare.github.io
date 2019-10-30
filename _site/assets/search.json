@@ -9,24 +9,10 @@
   
   
   {
-    "title": "Ajanvaraus",
-    "excerpt": "Varaa aika haluamaasi palveluun\n",
-    "content": "\n\n\n\n\n",
-    "url": "/ajanvaraus/"
-  },
-  
-  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
     "url": "/categories/"
-  },
-  
-  {
-    "title": "Yhteystiedot",
-    "excerpt": "\n",
-    "content": "Käyntiosoite: Tilkankatu 7 T 5 (“Askarteluhuone”)\nPuhelinnumero: 045 1084448\nSähköpostiosoite: lempealiekki@gmail.com\n\n\n",
-    "url": "/yhteystiedot/"
   }
   
 ]

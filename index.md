@@ -1,20 +1,14 @@
 ---
 layout: page
-feature_image: "/assets/lyhdyt_1300x400.png"
-header_image: "/assets/logos/logo512.png"
-feature_text: |
 ---
+Kutsun sinut pysähtymään hetkeksi kokemuksesi äärelle ja viettämään rentouttavan hetken kanssasi. Hengitä syvään ja ota etäisyyttä arjen haasteisiin. Uskon että jatkat matkaasi rennompana, selkeämpänä ja latautuneena!
 
-Kutsun sinut ottamaan yhdessä rauhaisan hetken itsellesi. Olet tervetullut sellaisena kuin olet! Autan sinua laskemaan kantamuksesi hetkeksi, jotta voit levätä ja pehmentää katseesi. Uskon sinun jatkavan matkaasi rennompana, selkeämpänä ja uusin voimin.
+Tarjoan tällä hetkellä Thaihierontaa ja Joogaa, mutta pian myös Teeseremonioita. Nämä harjoitteet perustuvat muinaisiin perinteisiin, jossa ne ovat ajan saatossa kehittyneet siirtyen mestarilta oppilaalle. Tarjoan palveluitani tähdäten asiakkaan kestävään ja kokonaisvaltaiseen hyvinvointiin.
 
-Tarjoan tällä hetkellä Thaihierontaa ja Joogaa, mutta pian myös Teeseremonioita. Näillä harjotteilla on juuret muinaisissa perinteissä kuten Buddhalaisuus, Hindulaisuus, Taolaisuus ja Zen. En kuitenkaan kuulu mihinkään näistä perinteistä, eivätkä mielestäni kuulu itse harjoitteetkaan. Kuitenkin koen, että näitä harjotteilla on arvokkaita pintaa syvemmälle meneviä vaikutuksia, joiden vuoksi niitä lie perinteissä käytetty. Toivonkin että saat mukaasi enemmän hyötyjä kun odotitkaan!
+Kiinnostukseni hyvinvointiin heräsi pakon kautta. Tärkeä parisuhde kaatui yllättäen ja myöhemmin saman vuonna paloin loppuun väitöskirjatutkijana. Minulla ei ollut voimia eikä edes kiinnostusta korjata ulkoista tilannettani. Onneksi uudet kämppikseni olivat teemestareita ja olin oppinut meditoimaan osana kungfu harrastusta. Tee ja meditaatio antoivat minulle tilaa parantua ja kasvaa, ja vuosien varrella olen kokeillut monenmoista täydentävää hoitomutoa ja harjoitetta, ja ajan päässyt jaloilleni. Itseni parantelun prosessi on myös tuonut paljon uutta kaunista elämääni, ja koen nyt elämäni olevan rikkaampaa kun koskaan. Yritin välissä palata tietotyöhön ohjelmoinnin merkeissä, mutta merkityksen tunne oli siirtynyt muualle. Tahdoin jatkaa löytämäni sisäisen polun kulkemista, ja myös keskittää energiani sen jakamiseen. Siispä lähdin 2018 loppusyksystä Thaimaahan opiskelemaan joogaa ja thaihierontaa tarkoituksenani oppia ja kasvaa, mutta tahdoin myös luoda uuden elinkeinon. Matkalla on ollut haasteita, mutta nyt rohkenen harjoittelun ja hyvän palautteen tukemana tarjota palveluitani julkisesti.
 
-<div style="display:flex; justify-content: flex-end;">
-	<a href="https://lempealiekki.fi/ajanvaraus" class="acuity-embed-button" style="background: #ff5000; color: #401f02; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block; text-shadow: none; font-weight: 600; float: right;">Ajanvaraus</a><link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/18231920.css" id="acuity-button-styles" />
-</div>
+Lämpimästi Tervetuloa!
 
-
-![Omakuva](/assets/omakuva.jpg){:class="img-responsive"}  
-Lämpimin terveisin  
+![Omakuva](/assets/omakuva.jpg){:class="omakuva"}   
 Bosco Martínez  
 Lempeä Liekki

@@ -3,17 +3,90 @@ title: false
 styles: true
 ---
 
-$backgroundColour: #401f02 !default;
-$featureBackgroundColour: #ffe427 !default;
-$linkColour: #ffe427 !default;
-$accentColour: #ffe427 !default;
-$captionColour: #ffe427 !default;
+p{
+	font-feature-settings: "kern", "liga" !important;
+}
 
-$headingColour: #ff5000 !default;
-$bodyColour: #ff5000 !default;
+
+$backgroundColour: #dfd9c9 !default;
+$featureBackgroundColour: #fbfbfb !default;
+
+$hoverColour: #cc6631 !default; //liekki oranssi
+$captionColour: #967739 !default; //valittu vaihtoehto
+
+$headingColour: #4a4736 !default;
+$bodyColour: #4a4736 !default;
+$linkColour: #4a4736 !default;
+$accentColour: #4a4736 !default;
+$captionColour: #4a4736 !default;
 
 .acuity_iframe{
-	filter: url("/assets/booking_filter.svg")
+	filter: url("/assets/booking_filter.svg");
 }
+
+.article{
+	background-color: #fbfbfb;
+	padding: 20px;
+	padding-top: 0px;
+}
+
+.feature{
+	display: none;
+}
+
+.header{
+	margin: 20px 0px;
+	background-color: #e7bb50;
+	font-family: Cabin;
+	font-weight: 700;
+	font-size: 24px;
+	img{
+		margin-top: -30px;
+		margin-bottom: -30px;
+	}
+	.container{
+		padding: 0px !important;
+	}
+}
+
+.item{
+	padding: 8px 5px;
+}
+
+.item--current{
+	background-color: #eedea2;
+	color: #967739;
+}
+
+h1{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+
+.omakuva{
+	width: 50%;
+}
+
+// Typography
+$bodytype: (
+  font-family: "Lato, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: 'Cabin, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
 
 @import "alembic";

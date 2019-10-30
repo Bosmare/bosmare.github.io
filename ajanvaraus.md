@@ -1,8 +1,7 @@
 ---
-title: Ajanvaraus
+layout: page
 excerpt: "Varaa aika haluamaasi palveluun"
 ---
-
 <iframe
 	src="https://app.acuityscheduling.com/schedule.php?owner=18231920"
 	width="100%"
