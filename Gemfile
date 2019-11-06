@@ -13,3 +13,5 @@ gem "jekyll-remote-theme", "~> 0.3"
 gem "jekyll-commonmark", "~> 1.3.1"
 gem "tzinfo-data", "~> 1.2019.3"
 gem "jekyll-include-cache", "~> 0.2.0"
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

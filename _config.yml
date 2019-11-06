@@ -56,17 +56,20 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/logos/logo512.png" # Default image for sharing
+      image: "/assets/logos/logo_ja_nimi_bicolor.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8
 lang: fi
 url: 'https://lempealiekki.fi'
 baseurl: ''
+type: website
 title: 'Lempeä Liekki'
 description: 'Lämpöä ja hyvinvointia'
 logo: "/assets/logos/logo_ja_nimi.svg"
 email: "lempealiekki@gmail.com"
+facebook:
+    publisher: https://www.facebook.com/LempeaLiekki/
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # Site favicons & manifest icons
