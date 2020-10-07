@@ -70,7 +70,7 @@ logo: "/assets/logos/logo_ja_nimi.svg"
 email: "lempealiekki@gmail.com"
 facebook:
     publisher: https://www.facebook.com/LempeaLiekki/
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
