@@ -29,8 +29,8 @@ plugins:
 - jekyll-remote-theme
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+#paginate: 2 # jekyll-paginate > items per page
+#paginate_path: blog/page:num # jekyll-paginate > blog page
 
 # 4. Jekyll settings
 sass:
@@ -66,7 +66,7 @@ baseurl: ''
 type: website
 title: 'Lempeä Liekki'
 description: 'Lämpöä ja hyvinvointia'
-logo: "/assets/logos/logo_ja_nimi.svg"
+logo: "/assets/logos/logo64.png"
 email: "lempealiekki@gmail.com"
 facebook:
     publisher: https://www.facebook.com/LempeaLiekki/
@@ -87,12 +87,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Etusivu
   url: /
-- title: Ajanvaraus
-  url: /ajanvaraus/
-- title: Yhteystiedot
-  url: /yhteystiedot/
-- title: Kuvat
-  url: /kuvat/
+#- title: Ajanvaraus
+#  url: /ajanvaraus/
+#- title: Yhteystiedot
+#  url: /yhteystiedot/
+#- title: Kuvat
+#  url: /kuvat/
 
 # Footer nav
 navigation_footer:
