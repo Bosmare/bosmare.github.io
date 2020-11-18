@@ -61,7 +61,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8
 lang: fi
-url: 'https://lempealiekki.fi'
+url: 'https://liekki.yoga'
 baseurl: ''
 type: website
 title: 'Lempeä Liekki'
@@ -85,14 +85,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Header nav
 navigation_header:
-- title: Etusivu
+- title: Palvelut
   url: /
-#- title: Ajanvaraus
-#  url: /ajanvaraus/
-#- title: Yhteystiedot
-#  url: /yhteystiedot/
-#- title: Kuvat
-#  url: /kuvat/
+- title: Ajanvaraus
+  url: /ajanvaraus/
+- title: Yhteystiedot
+  url: /yhteystiedot/
+- title: Kuvat
+  url: /kuvat/
 
 # Footer nav
 navigation_footer:
