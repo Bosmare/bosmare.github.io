@@ -98,6 +98,25 @@ h1{
   position: fixed;
 }
 
+.nappi {
+  font-family: ARJulian;
+  font-size: 28px;
+  text-align: center;
+
+  text-decoration: none;
+  background-color: #E7BB50;
+  color: #4a4736;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+.map {
+	border: 0.5px solid #4a4736;
+}
+
 // Typography
 $bodytype: (
   font-family: "Lato, sans-serif",

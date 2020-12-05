@@ -2,7 +2,7 @@
 layout: page
 --- 
 
-{%include palvelu_linkki.html url="thaihieronta" teksti="Thaihieronta" kuva="/assets/palvelut/thaihieronta.png"%}
+{%include palvelu_linkki.html url="/thaihieronta" teksti="Thaihieronta" kuva="/assets/palvelut/thaihieronta.png"%}
 
 <div class="palvelu_container">
 		<img src="/assets/palvelut/meditaatio_gray.png"/>

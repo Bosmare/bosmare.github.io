@@ -89,10 +89,10 @@ navigation_header:
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus/
-- title: Yhteystiedot
-  url: /yhteystiedot/
 - title: Media
   url: /media/
+- title: Yhteystiedot
+  url: /yhteystiedot/
 
 # Footer nav
 navigation_footer:
