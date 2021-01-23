@@ -1,10 +1,9 @@
 ---
 layout: page
 ---
-<b>
-Puhelinnumero: 045 78314187  
-Sähköpostiosoite: lempealiekki@gmail.com
-</b>
+<div style="font-weight: bold; display: flex; align-items: center"> {% include some_linkki.html id="puhelinnumero" title="puhelinnumero" url="tel:+3584578314187" %} <span style="padding-left: 5px"> 045 78314187 </span></div>
+<div style="font-weight: bold; display: flex; align-items: center"> {% include some_linkki.html id="email" title="email" url="mailto:liekki@liekki.yoga" %} <span style="padding-left: 5px"> liekki@liekki.yoga </span></div>
+{% include some_linkki.html id="facebook" title="facebook" url="https://www.facebook.com/LempeaLiekki/" %}{% include some_linkki.html id="instagram" title="instagram" url="https://www.instagram.com/lempealiekki" %}{% include some_linkki.html id="youtube" title="youtube" url="https://www.youtube.com/channel/UCJed5lqtBvmhCObRxmUziyg" %}
 
 <h3>Työtilojen sijainnit:</h3>
 
