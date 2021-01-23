@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 
 # 1. File excludes
 exclude:
@@ -67,7 +67,7 @@ type: website
 title: 'Lempeä Liekki'
 description: 'Lämpöä ja hyvinvointia'
 logo: "/assets/logos/logo64.png"
-email: "lempealiekki@gmail.com"
+email: "liekki@liekki.yoga"
 facebook:
     publisher: https://www.facebook.com/LempeaLiekki/
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
