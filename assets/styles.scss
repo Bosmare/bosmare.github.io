@@ -1,10 +1,7 @@
 ---
 ---
 
-p{
-	font-feature-settings: "kern", "liga" !important;
-	font-size: 82.5% !important;
-}
+//SETTING START
 
 $backgroundColour: #dfd9c9 !default;
 $featureBackgroundColour: #fbfbfb !default;
@@ -18,14 +15,73 @@ $linkColour: #4a4736 !default;
 $accentColour: #4a4736 !default;
 $captionColour: #4a4736 !default;
 
+// Typography
+$bodytype: (
+  font-family: "Lato, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: 'Cabin, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+@import "alembic";
+
+@font-face {
+  font-family: 'ARJulian';
+  src: url('/assets/fonts/ARJULIAN.ttf');
+}
+
+@media screen and (min-width: 40em){
+  .content {
+      width: 62%;
+      min-width: 34.8em;
+  }
+}
+
+//SETTINGS END
+
+
+p{
+	font-feature-settings: "kern", "liga" !important;
+}
+
+ul{
+  list-style-position: inside;
+}
+
 .acuity_iframe{
 	filter: url("/assets/booking_filter.svg");
+}
+
+.textlink{
+  color: #CC6631;
+  text-shadow: none !important;
 }
 
 .article{
 	background-color: #fbfbfb;
 	padding: 10px;
 	padding-top: 0px;
+}
+
+.sideBySide{
+  display: flex;
+  justify-content: space-between;
+  img{
+    width: calc(50% - 5px);
+  }
 }
 
 .feature{
@@ -115,32 +171,4 @@ h1{
 
 .map {
 	border: 0.5px solid #4a4736;
-}
-
-// Typography
-$bodytype: (
-  font-family: "Lato, sans-serif",
-  regular: 400,
-  bold: 700,
-  italic: italic,
-  cap-height: 0.75
-) !default;
-
-$headingtype: (
-  font-family: 'Cabin, sans-serif',
-  regular: 400,
-  bold: 700,
-  cap-height: 0.75
-) !default;
-
-$monospacetype: (
-  font-family: "Menlo, monospace",
-  regular: 400,
-  cap-height: 0.68
-) !default;
-@import "alembic";
-
-@font-face {
-  font-family: 'ARJulian';
-  src: url('/assets/fonts/ARJULIAN.ttf');
 }

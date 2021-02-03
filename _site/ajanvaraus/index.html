@@ -10,19 +10,20 @@
 
     
       <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Lempeä Liekki | Lämpöä ja hyvinvointia</title>
+<title>Lempeä Liekki | Perinteistä thaihierontaa Pohjois-Haagassa ja Töölössä Joogakoulu Shantin tiloissa.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Lempeä Liekki" />
+<meta name="author" content="LempeaLiekki" />
 <meta property="og:locale" content="fi" />
 <meta name="description" content="Varaa aika haluamaasi palveluun" />
 <meta property="og:description" content="Varaa aika haluamaasi palveluun" />
 <link rel="canonical" href="http://localhost:4000/ajanvaraus/" />
 <meta property="og:url" content="http://localhost:4000/ajanvaraus/" />
 <meta property="og:site_name" content="Lempeä Liekki" />
-<meta property="og:image" content="http://localhost:4000/assets/logos/logo_ja_nimi_bicolor.png" />
+<meta property="og:image" content="http://localhost:4000/assets/kuvat/perinteista_thaihierontaa_helsingissa.png" />
 <meta property="article:publisher" content="https://www.facebook.com/LempeaLiekki/" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/ajanvaraus/","headline":"Lempeä Liekki","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logos/logo64.png"}},"description":"Varaa aika haluamaasi palveluun","image":"http://localhost:4000/assets/logos/logo_ja_nimi_bicolor.png","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/ajanvaraus/","headline":"Lempeä Liekki","author":{"@type":"Person","name":"LempeaLiekki"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logos/logo64.png"},"name":"LempeaLiekki"},"description":"Varaa aika haluamaasi palveluun","image":"http://localhost:4000/assets/kuvat/perinteista_thaihierontaa_helsingissa.png","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -76,6 +77,33 @@
       gtag('config', 'G-2GE868KDQF');
     </script>
 
+    <!-- Google review scripts (4 scripts) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/js/google-places.js "></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyDjNlfODn9tjPoWpfFevrpbmg03LzCMybU"></script>
+    <script>
+        jQuery(document).ready(function() {
+            $("#google-reviews").googlePlaces({
+                placeId: ['ChIJxzR4WbkJkkYRlp_b0ZgTGMs'],
+                render: ['reviews'],
+                min_rating: 5,
+                max_rows: 0,
+                schema: {
+                    displayElement: '#schema' // optional, will use "#schema" by default
+                  , beforeText: 'Googlers rated'
+                  , middleText: 'based on'
+                  , afterText: 'awesome reviewers.'
+                  , type: 'Hostel'
+                }
+            });
+        });
+    </script>
+    
+    <!--
+    <script src="/js/maps.js"> </script>
+    <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjNlfODn9tjPoWpfFevrpbmg03LzCMybU&callback=initMap"></script>
+    -->
+
     <!-- Overwrite this file with code you want before the closing head tag -->
 
   </head>
@@ -122,7 +150,7 @@
       
 
       <li class="item  item--nav">
-        <a href="/">Palvelut</a>
+        <a href="/">Thaihieronta</a>
       </li>
     
 
