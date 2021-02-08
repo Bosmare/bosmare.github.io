@@ -35,17 +35,15 @@
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2GE868KDQF"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MPN5TL8');</script>
+    <!-- End Google Tag Manager -->
 
-      gtag('config', 'G-2GE868KDQF');
-    </script>
-
-    <!-- Google review scripts (4 scripts) -->
+    <!-- Google review scripts (4 scripts)
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="/js/google-places.js "></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyDjNlfODn9tjPoWpfFevrpbmg03LzCMybU"></script>
@@ -66,7 +64,8 @@
             });
         });
     </script>
-    
+    -->
+
     <!--
     <script src="/js/maps.js"> </script>
     <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjNlfODn9tjPoWpfFevrpbmg03LzCMybU&callback=initMap"></script>
@@ -76,6 +75,12 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPN5TL8"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     {% include site-icons.svg %}
 
     {{ content }}
