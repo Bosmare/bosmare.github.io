@@ -1,0 +1,16 @@
+{% assign feature_text = page.feature_text %}
+{% assign feature_image = page.feature_image %}
+{% if page.collectionpage %}
+  {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+  {% assign feature_text = collectiondata.feature_text %}
+  {% assign feature_image = collectiondata.feature_image %}
+{% endif %}
+
+{% if feature_text or feature_image %}
+  <div class="feature">
+  	{% if feature_image %} <img src={{ feature_image }} /> {% endif %}
+  	  <div class="typeset feature_text">
+      {{ feature_text | markdownify }}
+    </div>
+  </div>
+{% endif %}

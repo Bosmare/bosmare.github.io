@@ -2,10 +2,9 @@
 layout: page
 title: "Perinteistä thaihierontaa Helsingissä"
 feature_image: "/assets/kuvat/perinteista_thaihierontaa_helsingissa.png"
-feature_text: "test"
 excerpt: "Tarjoan perinteistä thaihierontaa Pohjois-Haagassa sekä Töölössä Joogakoulu Shantin tiloissa."
 ---
-Hei! Olen Liekki Ilola ja tarjoan perinteistä Thaihierontaa <a class="textlink" href="/yhteystiedot"> Töölössä ja Pohjois-Haagassa</a>. Löydä ja varaa itsellesi sopiva aika <a class="textlink" href="/ajanvaraus"> Ajanvarauksesta.
+Olen Liekki Ilola ja tarjoan perinteistä Thaihierontaa <a class="textlink" href="/yhteystiedot"> Töölössä ja Pohjois-Haagassa</a>. Löydä ja varaa itsellesi sopiva aika <a class="textlink" href="/ajanvaraus"> Ajanvarauksesta.
 
 <div class="video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LUHV2qxK0K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,7 +16,7 @@ Thaihieronta on kokonaisvaltainen hoitomuoto keholle ja mielelle. Sitä voidaan 
 
 Thaihieronta on vanha kehollisen terapian perinne, jonka juuret ovat Intiassa ja Thaimaassa. Se on myös hengellinen perinne, joka pohjautuu joogiseen ajatteluun ja on kehittynyt osana theravada-buddhalaisuutta. Thaihieronta on myös hiljattain hyväksytty <a class="textlink" href="https://ich.unesco.org/en/RL/nuad-thai-traditional-thai-massage-01384"> Unescon kulttuuriperintölistalle</a>.
 
-<img src="/assets/kuvat/06_shanti_jalka.png" alt="kuva" />
+<img src="/assets/kuvat/06_shanti_jalka.png" alt="Jalkapohjan hierontaa Joogakoulu Shantissa" />
 
 <h1> Asiakkailleni thaihieronta on </h1>
 <ul>
@@ -30,15 +29,22 @@ Thaihieronta on vanha kehollisen terapian perinne, jonka juuret ovat Intiassa ja
 	<li> purkanut stressiä ja rentouttanut mieltä </li>
 </ul>
 
+<img src="/assets/kuvat/thaihieronnan_hyodyt.png" alt="Jalkojen koukistus Joogakoulu Shantissa"/>
+
 <h1> Missä opin thaihierontaa? </h1>
 
 Opin thaihieronnan perusteet <a class="textlink" href="https://asokananda.com"> Sunshine Networkin </a> keskuksessa, joka sijaitsee Lahu-heimon vuoristokylässä Pohjois-Thaimaassa. Siellä opettajanani oli Kaline Alayna Kelly.
 
+<figure class="figure figure--center}">
+  <img class="image" src="/assets/kuvat/amelie_sunshine_network.jpg" alt="Lahu-kylä">
+  <figcaption class="caption"> Lahu-kylän hierontakoulu (Lähde: <a href="https://mostlyamelie.com/breakup-sunshine-network/"> mostlyamelie.com/breakup-sunshine-network/</a>)</figcaption>
+</figure>
+
 Suomessa olen opiskellut thaihierontaa <a class="textlink" href="https://sudiomantra.fi"> Studio Mantran </a> Pasi Kuuselan ohjauksessa. Pasilla on yli kymmenen vuoden kokemus thaihieronnasta ja sen opettamisesta, minkä lisäksi hän on koulutettu hieroja ja suorittanut hieronnan EAT:n.
 
 <div class="sideBySide">
-	<img src="http://www.studiomantra.fi/wp-content/uploads/bb-plugin/cache/IMG_7718-1-976x1024-square.jpg" alt="Pasi Kuusela" title="Pasi Kuusela" />
-	<img src="https://avatars.sched.co/5/AB/2520064/avatar.jpg?ee9" title="Kaline Alayna Kelly" alt="Kaline Alayna Kelly" />
+	<img src="/assets/kuvat/Pasi_Kuusela.jpg" alt="Pasi Kuusela" title="Pasi Kuusela" />
+	<img src="/assets/kuvat/Kaline.jpg" title="Kaline Alayna Kelly" alt="Kaline Alayna Kelly" />
 </div>
 
 <div>
