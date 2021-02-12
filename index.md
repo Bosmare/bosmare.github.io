@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Perinteistä thaihierontaa Helsingissä"
-feature_image: "/assets/kuvat/perinteista_thaihierontaa_helsingissa.png"
+feature_image: "/assets/kuvat/perinteista_thaihierontaa_helsingissa.jpg"
 excerpt: "Tarjoan perinteistä thaihierontaa Pohjois-Haagassa sekä Töölössä Joogakoulu Shantin tiloissa."
 ---
 Olen Liekki Ilola ja tarjoan perinteistä Thaihierontaa <a class="textlink" href="/yhteystiedot"> Töölössä ja Pohjois-Haagassa</a>. Löydä ja varaa itsellesi sopiva aika <a class="textlink" href="/ajanvaraus"> Ajanvarauksesta.
@@ -16,7 +16,7 @@ Thaihieronta on kokonaisvaltainen hoitomuoto keholle ja mielelle. Sitä voidaan 
 
 Thaihieronta on vanha kehollisen terapian perinne, jonka juuret ovat Intiassa ja Thaimaassa. Se on myös hengellinen perinne, joka pohjautuu joogiseen ajatteluun ja on kehittynyt osana theravada-buddhalaisuutta. Thaihieronta on myös hiljattain hyväksytty <a class="textlink" href="https://ich.unesco.org/en/RL/nuad-thai-traditional-thai-massage-01384"> Unescon kulttuuriperintölistalle</a>.
 
-<img src="/assets/kuvat/06_shanti_jalka.png" alt="Jalkapohjan hierontaa Joogakoulu Shantissa" />
+<img src="/assets/kuvat/shanti_jalkahieronta.jpg" alt="Jalkapohjan hierontaa" />
 
 <h1> Asiakkailleni thaihieronta on </h1>
 <ul>
@@ -29,7 +29,7 @@ Thaihieronta on vanha kehollisen terapian perinne, jonka juuret ovat Intiassa ja
 	<li> purkanut stressiä ja rentouttanut mieltä </li>
 </ul>
 
-<img src="/assets/kuvat/thaihieronnan_hyodyt.png" alt="Jalkojen koukistus Joogakoulu Shantissa"/>
+<img src="/assets/kuvat/shanti_jalkojen_koukistus.jpg" alt="Jalkojen koukistus"/>
 
 <h1> Missä opin thaihierontaa? </h1>
 

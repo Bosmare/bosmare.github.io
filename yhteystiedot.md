@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "Yhteystiedot"
+excerpt: "Ota yhteyttä ja löydä toimipisteeni"
 ---
 
 <div><img src="/assets/logos/logo_ja_nimi.svg" style="width:200px; height:79px; display: flex; align-items: center"/></div>

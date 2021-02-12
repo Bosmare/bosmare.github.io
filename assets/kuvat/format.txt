@@ -1,0 +1,2 @@
+peruskuvat
+-maxwidth 800

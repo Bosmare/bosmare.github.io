@@ -1,6 +1,6 @@
 ---
 title: "Ajanvaraus"
-feature_image: "/assets/kuvat/ajanvaraus.png"
+feature_image: "/assets/kuvat/thaihierontaa_shantissa.jpg"
 excerpt: "Varaa aika haluamaasi palveluun"
 ---
 

@@ -1,8 +1,8 @@
-const version = '20210210122845';
+const version = '20210212110836';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/ajanvaraus/","/","/media/","/assets/styles.css","/yhteystiedot/","/manifest.json","/assets/search.json","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/logo64.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/ajanvaraus/","/","/assets/styles.css","/yhteystiedot/","/manifest.json","/assets/search.json","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/logo64.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

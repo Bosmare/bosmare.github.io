@@ -100,8 +100,6 @@ navigation_header:
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus/
-- title: Media
-  url: /media/
 - title: Yhteystiedot
   url: /yhteystiedot/
 
