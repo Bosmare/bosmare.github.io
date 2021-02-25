@@ -1,8 +1,9 @@
 ---
 title: "Ajanvaraus"
 feature_image: "/assets/kuvat/thaihierontaa_shantissa.jpg"
-excerpt: "Varaa aika haluamaasi palveluun"
+excerpt: "Thaihieronnan ajanvaraus Hopeatie 9 & Runeberginkatu 43"
 ---
+<div class="hinnat"> 60€/h Joogakoulu Shantilla, 48€/h Hopeatiellä</div>
 
 <iframe
 	src="https://app.acuityscheduling.com/schedule.php?owner=18231920"
