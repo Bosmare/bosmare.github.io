@@ -5,7 +5,7 @@ excerpt: "Thaihieronnan ajanvaraus festareilla"
 ---
 
 <iframe
-	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&appointmentType=category:Thaihieronta%20-%20Wonder%20of%20Life%20festival"
+	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&appointmentType=category:Thaihieronta%20-%20Festareilla"
 	width="100%"
 	height="800"
 	frameBorder="0">
