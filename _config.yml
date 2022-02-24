@@ -100,8 +100,6 @@ navigation_header:
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus/
-- title: Palaute
-  url: /palaute/
 - title: Yhteystiedot
   url: /yhteystiedot/
 

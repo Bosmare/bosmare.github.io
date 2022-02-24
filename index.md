@@ -4,7 +4,7 @@ title: "Perinteistä thaihierontaa Helsingissä"
 feature_image: "/assets/kuvat/perinteista_thaihierontaa_helsingissa.jpg"
 excerpt: "Tarjoan perinteistä thaihierontaa Pohjois-Haagassa sekä Töölössä Joogakoulu Shantin tiloissa."
 ---
-Olen Liekki Ilola ja tarjoan perinteistä Thaihierontaa <a class="textlink" href="/yhteystiedot"> Töölössä ja Pohjois-Haagassa</a>. Löydä ja varaa itsellesi sopiva aika <a class="textlink" href="/ajanvaraus"> Ajanvarauksesta.
+Olen Liekki Ilola ja tarjoan perinteistä Thaihierontaa <a class="textlink" href="/yhteystiedot">Viikinmäessä</a>. Löydä ja varaa itsellesi sopiva aika <a class="textlink" href="/ajanvaraus">ajanvarauksesta</a>. En päivystä paikalla, joten varaathan ajan ennakkoon.
 
 <div class="video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LUHV2qxK0K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,19 +18,6 @@ Thaihieronta on vanha kehollisen terapian perinne, jonka juuret ovat Intiassa ja
 
 <img src="/assets/kuvat/shanti_jalkahieronta.jpg" alt="Jalkapohjan hierontaa" />
 
-<h1> Asiakkailleni thaihieronta on </h1>
-<ul>
-	<li> tarjonnut syviä rentoutumisen kokemuksia </li>
-	<li> avannut kroonisia kehon jumeja (esim. lantion ja hartioiden alueelta) </li>
-	<li> auttanut moniin kipuihin (esim. niskakipu, selkäkipu, päänsärky) </li>
-	<li> parantanut liikkuvuutta </li>
-	<li> suoristanut ja tasapainottanut ryhtiä </li>
-	<li> antanut vastaanottaa läsnäolevaa ja hyväksyvää kosketusta </li>
-	<li> purkanut stressiä ja rentouttanut mieltä </li>
-</ul>
-
-<img src="/assets/kuvat/shanti_jalkojen_koukistus.jpg" alt="Jalkojen koukistus"/>
-
 <h1> Missä opin thaihierontaa? </h1>
 
 Opin thaihieronnan perusteet <a class="textlink" href="https://asokananda.com"> Sunshine Networkin </a> keskuksessa, joka sijaitsee Lahu-heimon vuoristokylässä Pohjois-Thaimaassa. Siellä opettajanani oli Kaline Alayna Kelly.
@@ -41,11 +28,6 @@ Opin thaihieronnan perusteet <a class="textlink" href="https://asokananda.com"> 
 </figure>
 
 Suomessa olen opiskellut thaihierontaa <a class="textlink" href="https://sudiomantra.fi"> Studio Mantran </a> Pasi Kuuselan ohjauksessa. Pasilla on yli kymmenen vuoden kokemus thaihieronnasta ja sen opettamisesta, minkä lisäksi hän on koulutettu hieroja ja suorittanut hieronnan EAT:n.
-
-<div class="sideBySide">
-	<img src="/assets/kuvat/Pasi_Kuusela.jpg" alt="Pasi Kuusela" title="Pasi Kuusela" />
-	<img src="/assets/kuvat/Kaline.jpg" title="Kaline Alayna Kelly" alt="Kaline Alayna Kelly" />
-</div>
 
 <div>
 	<a href="ajanvaraus" class="varausnappi">
