@@ -4,8 +4,9 @@ feature_image: "/assets/kuvat/thaihierontaa_shantissa.jpg"
 excerpt: "Thaihieronnan ajanvaraus Hopeatie 9 & Runeberginkatu 43"
 ---
 
+
 <iframe
-	src="https://app.acuityscheduling.com/schedule.php?owner=18231920"
+	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&calendarID=3218587"
 	width="100%"
 	height="800"
 	frameBorder="0">
