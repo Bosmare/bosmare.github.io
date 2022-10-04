@@ -31,13 +31,13 @@ plugins:
 # 3. Gem settings
 #paginate: 2 # jekyll-paginate > items per page
 #paginate_path: blog/page:num # jekyll-paginate > blog page
-author: LempeaLiekki # jekyll-seo-tag > default author
+author: LiekkiWellness # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Liekki Ilola # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.youtube.com/channel/UCJed5lqtBvmhCObRxmUziyg
-    - https://www.facebook.com/LempeaLiekki
-    - https://www.instagram.com/lempealiekki
+    - https://www.facebook.com/LiekkiWellness
+    - https://www.instagram.com/liekkiwellness
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -75,12 +75,12 @@ lang: fi
 url: 'https://liekki.yoga'
 baseurl: ''
 type: website
-title: 'Lempeä Liekki'
-description: 'Perinteistä thaihierontaa Pohjois-Haagassa ja Töölössä Joogakoulu Shantin tiloissa.'
+title: 'Liekki Wellness'
+description: 'Perinteistä thaihierontaa Viikinmäessä ja Sörnäisissä'
 logo: "/assets/logos/logo64.png"
-email: "liekki@liekki.yoga"
+email: "info@liekki-wellness.fi"
 facebook:
-    publisher: https://www.facebook.com/LempeaLiekki/
+    publisher: https://www.facebook.com/LiekkiWellness/
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # Site favicons & manifest icons

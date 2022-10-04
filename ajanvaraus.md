@@ -1,10 +1,10 @@
 ---
 title: "Ajanvaraus"
-feature_image: "/assets/kuvat/thaihierontaa_shantissa.jpg"
+feature_image: "/assets/kuvat/ajanvaraus.jpg"
 excerpt: "Thaihieronnan ajanvaraus"
 ---
 
-Lomailen kesällä luonnon ääressä, mutta muutama Viikinmäen hoitopäivä on kuitenkin avoinna ajanvarauksille :)
+Hieron Torstaisin Merkaba Centerissä (Sörnäisten Rantatie 33), <br> muina päivinä Viikinmäessä (Maaherrantie 6).
 
 <iframe
 	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&calendarID=3218587"

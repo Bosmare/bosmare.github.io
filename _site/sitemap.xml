@@ -22,12 +22,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/kosmos/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/palaute/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/yhteystiedot/</loc>
 </url>
 </urlset>
