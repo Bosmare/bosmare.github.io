@@ -4,7 +4,7 @@ feature_image: "/assets/kuvat/ajanvaraus.jpg"
 excerpt: "Thaihieronnan ajanvaraus"
 ---
 
-Hieron Torstaisin Merkaba Centerissä (Sörnäisten Rantatie 33), <br> muina päivinä Viikinmäessä (Maaherrantie 6).
+Hieron Torstaisin Sörnäisissä Merkaba Centerissä ja muina päivinä kotini hoitohuoneessa Viikinmäessä
 
 <iframe
 	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&calendarID=3218587"
