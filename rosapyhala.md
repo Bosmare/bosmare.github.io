@@ -5,6 +5,8 @@ excerpt: "Fysioterapian, akupunktion ja hieronnan ajanvaraus"
 <div style="display:flex;">
 	<img src="/assets/kuvat/rosapyhala.jpeg" style="height:200px;width:auto;"/>
 	<div style="margin-left: 10px">
+		Olen fysioterapeutti Rosa Pyhälä. Teen hoitoja torstaisin Sörnäisissä Merkaba Centerissä ja muina aikoina sopimuksen mukaan joko siellä tai hoitohuoneessa Viikinmäessä.
+
 		Teen rentouttavaa ja mobilisoivaa hierontaa, faskiakäsittelyä, fysioterapiaa psykofyysisella työotteella sekä akupunktiota, johon minulla on sekä kiinalaisen lääketieteen koulutus että fysioterapeuteille suunnattu aku- ja triggerpistekoulutus.
 	</div>
 </div>
