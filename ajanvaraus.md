@@ -4,7 +4,7 @@ feature_image: "/assets/kuvat/ajanvaraus.jpg"
 excerpt: "Thaihieronnan ajanvaraus"
 ---
 
-Hieron Torstaisin Sörnäisissä Merkaba Centerissä ja muina päivinä kotini hoitohuoneessa Viikinmäessä
+Hieron Sörnäisten Merkaba Centerissä (Sörnäisten Rantatie 33) sekä kotini hoitohuoneessa Viikinmäessä (Maaherrantie 6).
 
 <iframe
 	src="https://app.acuityscheduling.com/schedule.php?owner=18231920&calendarID=3218587"
