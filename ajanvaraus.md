@@ -1,14 +1,7 @@
 ---
 title: "Ajanvaraus"
-excerpt: "Thaihieronnan ajanvaraus"
+excerpt: "Thaijoogahieronnan ajanvaraus"
 ---
 
-<a class="slotti-book-now" 
-   href="https://slotti.fi/booking/liekkiwellness"
-   data-btn-theme="orange"
-   data-embed="true"
-   data-margin="none"
-   data-header="none">
-   Varaa aika
-</a>
-<script src="https://slotti.fi/static/js/embed.js"></script>
+<script type="text/javascript" language="javascript">(function(d,s,i,c,j,a){a=d.getElementsByTagName(s)[0];if(d.getElementById(i))return;j=d.createElement(s);j.id=i;j.async=1;j.setAttribute("data-c",c);j.src="https://static.vello.fi/js/wizard/vwiz.js";a.parentNode.insertBefore(j,a);}(document,"script","vello-wizard-sdk","liekki-wellness"));</script>
+<div id="vello-wizard"></div>
