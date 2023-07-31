@@ -4,7 +4,9 @@ title: "Autenttista thaihijoogahierontaa Viikinmäessä"
 feature_image: "/assets/kuvat/jalkojen_koukistus.jpg"
 excerpt: "Tarjoan autenttista thaijoogahierontaa Viikinmäessä."
 ---
-Olen Liekki Ilola ja tarjoan autenttista thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>.
+Olen Liekki Ilola ja tarjoan autenttista thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Elokuussa tarjoan hierontaa myös <a class="textlink" href="https://elosfest.fi">Elos Festissä</a>. Olen aiemmin hieronut <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> sekä <a class="textlink" href="https://www.facebook.com/merkabakeskus/">Merkaba Centerillä</a> ja etsin uutta paikkaa syksystä eteenpäin.
+
+Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
 
 <div class="video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LUHV2qxK0K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,7 +28,7 @@ Opin thaijoogahieronnan perusteet <a class="textlink" href="https://asokananda.c
 
 Hieronnasta on myös tullut minulle elämäntapa, joka on läsnä kaikessa mitä teen. Teen vaihtareita monenlaisten hoitajien kanssa, mikä opettaa aina uutta ja auttaa toisaalta pysymään yhteydessä hoitamiseen myös vastaanottajan perspektiivistä. Tutkin omaa kehoani joogassa, meditaatiossa, tanssissa, kehonpainoharjoittelussa ja arjen aktiviteeteissä. Katselen myös muiden asentoja ja liikkeitä ja tutkin kehollista vuorovaikutusta mm. kontakti-improvisaatiossa, painissa ja arjen pienissä kosketuksissa.
 
-Kosketuksen kautta hoitamisessa on paljon syvyyttä ja oppimatka kestää taatusti läpi elämän. Vastaanottajat ovat erilaisia ja samakin ihminen on erilainen eri päivinä. Ja itse tekijänä muutun myös. Ja hiljainen ymmärrys kehosta ja kehollisesta vuorovaikutuksesta kasvaa pikku hiljaa. Olen ollut oppilaana 2019 vuodesta saakka ja matka jatkuu ja syvenee yhä.
+Kosketuksen kautta hoitamisessa on paljon syvyyttä ja oppimatka kestää taatusti läpi elämän. Vastaanottajat ovat erilaisia ja samakin ihminen on erilainen eri päivinä. Ja itse tekijänä muutun myös. Ja hiljainen ymmärrys kehosta ja kehollisesta vuorovaikutuksesta kasvaa pikku hiljaa. Oppimatkani alkoi keväällä 2019 ja on yhä meneillään.
 
 <figure class="figure figure--center}">
   <img class="image" src="/assets/kuvat/amelie_sunshine_network.jpg" alt="Lahu-kylä">
