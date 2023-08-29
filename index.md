@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Aitoa thaijoogahierontaa Viikinmäessä"
-feature_image: "/assets/kuvat/jalkojen_koukistus.jpg"
-excerpt: "Tarjoan autenttista thaijoogahierontaa Viikinmäessä."
+excerpt: "Tarjoan aitoa thaijoogahierontaa Viikinmäessä."
 ---
+
+<img src="/assets/kuvat/jalkojen-koukistus-venytys.jpg" alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." />
+
 Olen Liekki Ilola ja tarjoan aitoa thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Olen aiemmin hieronut <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> sekä <a class="textlink" href="https://www.facebook.com/merkabakeskus/">Merkaba Centerillä</a> ja etsin uutta paikkaa syksystä eteenpäin.
 
 Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
@@ -20,7 +22,7 @@ Kuten joogakin, thaijoogahieronta on myös hengellinen perinne. Se on saanut joo
 
 Moni kuitenkin ottaa hieronnan vastaan rentoutuakseen tai hoitaakseen kehoaan. Paikalle voi tulla omista lähtökohdistaan ja ottaa vastaan sen mikä itselle toimii. Jälleen samaan tapaan kuin joogankin kanssa.
 
-<img src="/assets/kuvat/jalkapohjan_avaus.jpg" alt="Jalkapohjan avaus" />
+<img src="/assets/kuvat/jalkapohjan-hieronta-ja-venytys.jpg" alt="Thaihieroja hieroo vastaanottajan jalkapohjaa ja venyttää samalla tämän pohjetta." />
 
 <h1> Missä olen oppinut hierontaa? </h1>
 
@@ -31,6 +33,6 @@ Hieronnasta on myös tullut minulle elämäntapa, joka on läsnä kaikessa mitä
 Kosketuksen kautta hoitamisessa on paljon syvyyttä ja oppimatka kestää taatusti läpi elämän. Vastaanottajat ovat erilaisia ja samakin ihminen on erilainen eri päivinä. Ja itse tekijänä muutun myös. Ja hiljainen ymmärrys kehosta ja kehollisesta vuorovaikutuksesta kasvaa pikku hiljaa. Oppimatkani alkoi keväällä 2019 ja on yhä meneillään.
 
 <figure class="figure figure--center}">
-  <img class="image" src="/assets/kuvat/amelie_sunshine_network.jpg" alt="Lahu-kylä">
+  <img class="image" src="/assets/kuvat/sunshine-network-hierontakoulu.jpg" alt="Sunshine Networkin thaihierontakoulu Lahu-kylässä">
   <figcaption class="caption"> Lahu-kylän hierontakoulu (Lähde: <a href="https://mostlyamelie.com/breakup-sunshine-network/"> mostlyamelie.com/breakup-sunshine-network/</a>)</figcaption>
 </figure>
