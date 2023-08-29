@@ -8,7 +8,7 @@ excerpt: "Tarinastani ja ajatuksistani"
 
 Haluan tukea ihmisiä sisäisen ja kokonaisvaltaisen hyvinvoinnin ylläpitämisessä ja kehittämisessä. Toivon myös voivani olla osaltani luomassa kestävämpää ja ihmisläheisempää kuttuuria. Liekki Wellness on toiminimeni, jonka kautta voin tarjota näitä tavoitteita edistäviä palveluita, tapahtumia ja tuotteita.
 
-<img src="/assets/kuvat/reiden-hieronta-kyynarvarrella.jpg" alt="Thaihieroja hieroo vatsallaan makaavan vastaanottajan reittä painelemalla sitä kyynärpäällään" />
+<img src="/assets/kuvat/ajanvaraus.jpg" alt="Thaihieroja hieroo vatsallaan makaavan vastaanottajan reittä painelemalla sitä kyynärvarrellaan" />
 
 Tällä hetkellä keskityn vahvasti thaijoogahierontaan. Hieronnassa voi luoda uudenlaista suhdetta kosketukseen ja kehoonsa. Lisäksi se on helppo ja syvä mindfulness -harjoitus, johon levottomatkin mielet ovat voineet kanssani laskeutua. Siinä voi myös levätä ja irrottautua arjen suorittavasta tasosta, mikä antaa mahdollisuuden tarkastella elämää laajemmasta perspektiivistä ja saada oivalluksia. Tunnetusti hieronta avaa myös hyvin kehollisia jumeja ja voi helpottaa monia tuki- ja liikuntaelimistön vaivoja.
 
