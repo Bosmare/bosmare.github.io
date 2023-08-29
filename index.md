@@ -4,7 +4,7 @@ title: "Autenttista thaihijoogahierontaa Viikinmäessä"
 feature_image: "/assets/kuvat/jalkojen_koukistus.jpg"
 excerpt: "Tarjoan autenttista thaijoogahierontaa Viikinmäessä."
 ---
-Olen Liekki Ilola ja tarjoan autenttista thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Elokuussa tarjoan hierontaa myös <a class="textlink" href="https://elosfest.fi">Elos Festissä</a>. Olen aiemmin hieronut <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> sekä <a class="textlink" href="https://www.facebook.com/merkabakeskus/">Merkaba Centerillä</a> ja etsin uutta paikkaa syksystä eteenpäin.
+Olen Liekki Ilola ja tarjoan autenttista thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Olen aiemmin hieronut <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> sekä <a class="textlink" href="https://www.facebook.com/merkabakeskus/">Merkaba Centerillä</a> ja etsin uutta paikkaa syksystä eteenpäin.
 
 Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
 

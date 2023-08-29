@@ -72,11 +72,11 @@ defaults:
 # 7. Site settings
 encoding: utf-8
 lang: fi
-url: 'https://liekki.yoga'
+url: 'https://liekki-wellness.fi'
 baseurl: ''
 type: website
 title: 'Liekki Wellness'
-description: 'Perinteistä thaihierontaa Viikinmäessä ja Sörnäisissä'
+description: 'Aitoa thaijoogahierontaa Viikinmäessä'
 logo: "/assets/logos/logo64.png"
 email: "info@liekki-wellness.fi"
 facebook:
