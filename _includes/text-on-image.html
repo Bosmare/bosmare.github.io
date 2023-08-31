@@ -1,0 +1,19 @@
+{% comment %}
+!-- includes - img-url img-alt text text-position -->
+{% endcomment %}
+{% case include.text-position %}
+  {% when "top-left" %}
+    {% assign coordinates = "top: 2px; left: 16px;" %}
+  {% when "top-right" %}
+    {% assign coordinates = "top: 2px; right: 16px;" %}
+  {% when "bottom-left" %}
+    {% assign coordinates = "bottom: 12px; left: 16px;" %}
+  {% when "bottom-right" %}
+    {% assign coordinates = "bottom: 12px; right 16px;" %}
+  {% when "centered" %}
+  	{% assign coordinates = "top: 50%; left: 50%; transform: translate(-50%, -50%);"%}
+{% endcase %}
+<div style="position:relative; text-align: center; color:white; padding-top: 6px; padding-bottom: 8px">
+  <img src="{{include.img-url}}" alt="{{include.img-alt}}" style="width:100%;">
+  <div style="position:absolute; padding: 0px 5px 0px 5px; border-radius:8px; background-color:rgba(255, 255, 255, 0.4); {{coordinates}}">{{include.text}}</div>
+</div>

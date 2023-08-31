@@ -67,7 +67,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/kuvat/perinteista_thaihierontaa_helsingissa.png" # Default image for sharing
+      image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8
@@ -76,7 +76,7 @@ url: 'https://liekki-wellness.fi'
 baseurl: ''
 type: website
 title: 'Liekki Wellness'
-description: 'Aitoa thaijoogahierontaa Viikinmäessä'
+description: 'Thaijoogahieronta'
 logo: "/assets/logos/logo64.png"
 email: "info@liekki-wellness.fi"
 facebook:
@@ -96,7 +96,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Header nav
 navigation_header:
-- title: Thaihieronta
+- title: Thaijoogahieronta
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus/

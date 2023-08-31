@@ -52,6 +52,16 @@ $monospacetype: (
 
 //SETTINGS END
 
+.article{
+  margin-top: -90px;
+  padding-top: 96px !important;
+  margin-bottom: -90px;
+  padding-bottom: 90px;
+}
+
+.container {
+  width: 100%;
+}
 
 p{
 	font-feature-settings: "kern", "liga" !important;
@@ -108,6 +118,7 @@ ul{
 	font-family: ARJulian;
 	font-weight: 600;
 	font-size: 120%;
+  z-index: 1;
 	.container{
 		padding: 0px !important;
 	}
