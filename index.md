@@ -2,7 +2,7 @@
 layout: page
 title: "Thaijoogahieronta"
 excerpt: "Tarjoan aitoa thaijoogahierontaa Viikinmäessä."
-feature_image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
+image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
 ---
 
 {% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Thaijoogahieronta</h1>" text-position="top-left" %}

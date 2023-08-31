@@ -2,6 +2,8 @@
 layout: page
 title: "Minusta"
 excerpt: "Työni ja tarinani."
+feature_image: "/assets/kuvat/liekki-ilola-laiturilla.jpg"
+image: "/assets/kuvat/liekki-ilola-laiturilla.jpg"
 ---
 {% include text-on-image.html img-url="/assets/kuvat/liekki-ilola-laiturilla.jpg" img-alt="Liekki Ilola istuu risti-istunnassa laiturilla kesäisen suomalaisen järven rannalla." text="<h1>Minusta</h1>" text-position="top-left" %}
 <h2>Työni</h2>
