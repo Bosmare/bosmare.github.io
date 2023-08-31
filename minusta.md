@@ -2,13 +2,12 @@
 layout: page
 title: "Minusta"
 excerpt: "Työni ja tarinani."
-feature_image: "/assets/kuvat/liekki-ilola-laiturilla.jpg"
 image: "/assets/kuvat/liekki-ilola-laiturilla.jpg"
 ---
 {% include text-on-image.html img-url="/assets/kuvat/liekki-ilola-laiturilla.jpg" img-alt="Liekki Ilola istuu risti-istunnassa laiturilla kesäisen suomalaisen järven rannalla." text="<h1>Minusta</h1>" text-position="top-left" %}
 <h2>Työni</h2>
 
-Haluan tukea ihmisiä sisäisen ja kokonaisvaltaisen hyvinvoinnin ylläpitämisessä ja kehittämisessä. Toivon myös voivani olla osaltani luomassa kestävämpää ja ihmisläheisempää kuttuuria. Liekki Wellness on toiminimeni, jonka kautta voin tarjota näitä tavoitteita edistäviä palveluita, tapahtumia ja tuotteita.
+Haluan tukea ihmisiä sisäisen ja kokonaisvaltaisen hyvinvoinnin ylläpitämisessä ja kehittämisessä. Toivon myös voivani olla osaltani luomassa kestävämpää ja ihmisläheisempää kultuuria. Liekki Wellness on toiminimeni, jonka kautta voin tarjota näitä tavoitteita edistäviä palveluita, tapahtumia ja tuotteita.
 
 Tällä hetkellä keskityn vahvasti thaijoogahierontaan. Hieronnassa voi luoda uudenlaista suhdetta kosketukseen ja kehoonsa. Lisäksi se on helppo ja syvä mindfulness -harjoitus, johon levottomatkin mielet ovat voineet kanssani laskeutua. Siinä voi myös levätä ja irrottautua arjen suorittavasta tasosta, mikä antaa mahdollisuuden tarkastella elämää laajemmasta perspektiivistä ja saada oivalluksia. Tunnetusti hieronta avaa myös hyvin kehollisia jumeja ja voi helpottaa monia tuki- ja liikuntaelimistön vaivoja.
 
@@ -35,7 +34,7 @@ Olen kaupallinen toimija, mutta raha ei ole tärkein arvoni. Siispä olen tarjon
 </ul>
 
 <h2>Tarinani</h2>
-Vanhassa elämässäni kouluttauduin akateemisesti ja harrastin kamppailulajeja läpi lapsuuden ja nuoruuden. Kamppailulajit auttoivat kehittämään kehoyhteyttä ja kykyäö kohdata haasteita. Sain myös sieltä sisäisen hyvinvoinnin työkaluja Chikungin ja meditaation muodossa. Valmistuttuani työllistyin väitöstutkimuksen parissa, mutta tunsin kuitenkin jotain sisäistä eksyneisyyttä. Mihin kulkemani opintopolku olikaan oikeastaan johtanut?
+Vanhassa elämässäni kouluttauduin akateemisesti ja harrastin kamppailulajeja läpi lapsuuden ja nuoruuden. Kamppailulajit auttoivat kehittämään kehoyhteyttä ja kykyä kohdata haasteita. Sain myös sieltä sisäisen hyvinvoinnin työkaluja Chikungin ja meditaation muodossa. Valmistuttuani työllistyin väitöstutkimuksen parissa, mutta tunsin kuitenkin jotain sisäistä eksyneisyyttä. Mihin kulkemani opintopolku olikaan oikeastaan johtanut?
 
 Elämä ravisteli vuoden tutkimustyön jälkeen keväällä 2016. Rakas kumppanini halusi yllättäen eron, eikä sen suhteen tuntunut olevan mitään tehtävissä. Kohtasin haasteita tutkimustyössä ja palautumiseni kärsi. Samalla kyseenalaistin koko valitsemaani urapolkua. Kesällä huomasin etten yhtenä aamuna enää päässyt töihin. Samoin kävi myös seuraavana aamuna ja ymmärsin palaneeni loppuun. Menetettyäni työn ja rakkauden, huomasin seisovani tyhjän päällä. Kuten tuntuu usein olevan tapana, sisäinen polkuni lähti käyntiin kriisin tuomasta välttämättömyydestä.
 
@@ -57,7 +56,7 @@ Tutkimukset jatkuivat. Elokuussa 2017 kävin kymmenen päivän hiljaisen <a clas
   <figcaption class="caption"> Liekki retriitillä Perun Amazoniassa 2017</figcaption>
 </figure>
 
-Matkailun ja retriittien jälkeen palasin suomeen ja ystäväni ohjasi minulle <a class="textlink" href="https://shakta.fi">Shaktajoogaa</a>. Se osui minuun vahvemmin kuin mikään jooga oli aiemmin osunut ja tuntui luonnolliselta jatkeelta meditaatiolle. Saman yhden istuma-asennon sijasta meditoitiin erilaisissa asennoissa. Aloinkin käymään Helsingin shaktajoogakoululla aktiivisesti.
+Matkailun ja retriittien jälkeen palasin Suomeen ja ystäväni ohjasi minulle <a class="textlink" href="https://shakta.fi">Shaktajoogaa</a>. Se osui minuun vahvemmin kuin mikään jooga oli aiemmin osunut ja tuntui luonnolliselta jatkeelta meditaatiolle. Saman yhden istuma-asennon sijasta meditoitiin erilaisissa asennoissa. Aloinkin käymään Helsingin shaktajoogakoululla aktiivisesti.
 
 Syksyllä en vieläkään ollut löytänyt mitään, mihin olisin halunnut työkseni paneutua, joten mietin uuden ohjelmointityön hakemista. Hakemisprosessi kuitenkin tuntui hankalalta eikä tahtonut edetä. Tuohon aikaan vietin ystäväporukalla silloin tällöin viikonloppuja retriittihengessä. Erään viikonlopun aikana koin selkeästi, että minun tulisi jatkaa yrittämistä, kun siihen oli vielä säästöjen ansioista mahdollisuus. Etten hukkaisi tätä selkeyttä, päätin palattuani heti irtisanoa asuntoni ja ostaa lentoliput Thaimaahan käydäkseni siellä joogaohjaajakoulutuksen Shri Kali -ashramissa, josta Shaktajoogan opit ovat peräisin.
 
@@ -68,7 +67,7 @@ Asuin ashramilla 3kk, jonka aikana kävin 500 tunnin joogaohjaajakoulutuksen. Tu
   <figcaption class="caption"> Liekki joogaohjaajakoulutuksessa Shri-Kali ashramilla 2018</figcaption>
 </figure>
 
-Joogaohjaajakoulutuksen jälkeen minulla oli vielä budjettia jäädä joksikin aikaa Thaimaahan. Halusin vielä opetella thaihierontaa ja toivoin että voisin tehdä sitä joskus työkseni. Pääopettajamme suositteli <a class="textlink" href="https://asokananda.com"> Sunshine Networkia</a> ja olin myös saanut ahramilla mainion hieronnan ystävältäni, joka oli opiskellut siellä. Lähdin siis vielä kuukaudeksi Chiang Maihin ja varasin paikan 12 päivän retriittimuotoiseen thaijoogahieronnan peruskurssiin syrjäisessä vuoristokylässä. Ennen lähtöä kävin myös muutaman pienemmän thaihierontakurssin Old Medicine Hospitalissa.
+Joogaohjaajakoulutuksen jälkeen minulla oli vielä budjettia jäädä joksikin aikaa Thaimaahan. Halusin vielä opetella thaihierontaa ja toivoin että voisin tehdä sitä joskus työkseni. Pääopettajamme suositteli <a class="textlink" href="https://asokananda.com"> Sunshine Networkia</a> ja olin myös saanut ashramilla mainion hieronnan ystävältäni, joka oli opiskellut siellä. Lähdin siis vielä kuukaudeksi Chiang Maihin ja varasin paikan 12 päivän retriittimuotoiseen thaijoogahieronnan peruskurssiin syrjäisessä vuoristokylässä. Ennen lähtöä kävin myös muutaman pienemmän thaihierontakurssin Old Medicine Hospitalissa.
 
 Thaijoogahieronnan peruskurssi ylitti odotukseni. Ajattelin oppivani käytännöllisen uuden taidon, mutta hierontaan suhtauduttiinkin aivan erilaisella syvyydellä. Aamut alkoivat tunnin meditaatiolla, jota seurasi tunnin joogaharjoitukset ja sitten alkoivat itse opinnot. Hieronnan opiskelu keskittyi ohjattuihin käytännön harjoituksiin, joissa pyrittiin antamaan ja vastaanottamaan laadukasta hoitoa, eikä vaan saamaan tekniikoita päntättyä päähän. Läsnäoleva kehotyöskentely ja valtavan hierontamäärän vastaanottaminen laittoi sisäisesti paljon liikkeelle, eikä hierontakurssilla vietetty aika jäänyt lainkaan vähäisemmäksi vaikutuksiltaan kuin päivät ashramilla.
 
