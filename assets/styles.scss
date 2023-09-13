@@ -25,7 +25,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: 'Cabin, sans-serif',
+  font-family: 'kasi1, sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -41,6 +41,23 @@ $monospacetype: (
 @font-face {
   font-family: 'ARJulian';
   src: url('/assets/fonts/ARJULIAN.ttf');
+}
+
+@font-face {
+  font-family: 'kasi1';
+  src: url('/assets/fonts/kasi1.ttf');
+}
+@font-face {
+  font-family: 'kasi2';
+  src: url('/assets/fonts/kasi2.ttf');
+}
+@font-face {
+  font-family: 'kasi3';
+  src: url('/assets/fonts/kasi3.ttf');
+}
+@font-face {
+  font-family: 'kasi4';
+  src: url('/assets/fonts/kasi4.ttf');
 }
 
 @media screen and (min-width: 40em){

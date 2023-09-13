@@ -25,7 +25,7 @@ Moni kuitenkin ottaa hieronnan vastaan rentoutuakseen tai hoitaakseen kehoaan. P
 
 <img src="/assets/kuvat/jalkapohjan-hieronta-ja-venytys.jpg" alt="Thaihieroja hieroo vastaanottajan jalkapohjaa ja venyttää samalla tämän pohjetta." />
 
-<h2> Missä olen oppinut hierontaa? </h2>
+<h2> Missä opin thaijoogahierontaa? </h2>
 
 Opin thaijoogahieronnan perusteet <a class="textlink" href="https://asokananda.com"> Sunshine Networkin </a> keskuksessa, joka sijaitsee Lahu-heimon vuoristokylässä Pohjois-Thaimaassa. Siellä opettajanani oli Kaline Alayna Kelly. Suomessa olen opiskellut thaihierontaa <a class="textlink" href="https://pasikuusela.com/"> Pasi Kuuselan </a> ohjauksessa.
 
