@@ -7,9 +7,9 @@ image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
 
 {% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Thaijoogahieronta</h1>" text-position="top-left" %}
 
-Olen Liekki Ilola ja tarjoan aitoa thaijoogahierontaa kotini hoitohuoneessa Viikinmäessä. Syksyllä alan myös tarjoamaan hierontaa <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> torstaisin.
+Olen Liekki Ilola, hieroja ja joogaopettaja. Tarjoan aitoa thaijoogahierontaa torstaisin Töölön <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> ja muina päivinä kotini hoitohuoneessa <a class="textlink" href="/yhteystiedot#viikinmäki">Viikinmäessä</a>. Pidän myös hierontatyöpajoja <a class="textlink" href="/yhteystiedot#pasila">Pasilassa</a> 4.11 ja 2.12 klo 16-19.
 
-Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a class="textlink" href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
+Voit varata ajan hierontaan tai ilmoittautua työpajaan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksessa</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a class="textlink" href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
 
 <div class="video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LUHV2qxK0K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,7 +19,7 @@ Voit varata ja etsiä sopivan ajan <a class="textlink" href="/ajanvaraus">netti-
 
 Thaijoogahieronta on muinainen thaimaalainen hierontaperinne, joka on rakentunut paljolti joogisen terveyskäsityksen pohjalle. Siispä se on kokonaisvaltainen hoitomuoto, jossa osien lisäksi huomioidaan kokonaisuuksia ja tuki- ja liikuntaelimistön lisäksi huolletaan hermostoa, mieltä ja tunteita. Käytännön tasolla hoidossa käytetään monia fyysisiä menetelmiä, kuten hierontaotteita, venytyksiä, somaattista liikuttelua ja läsnäolevaa kosketusta.
 
-Kuten joogakin, thaijoogahieronta on kehollisen puolensa ohella myös hengellinen perinne. Se on saanut joogiset juurensa Intiasta ja se on Thaimaassa kehittynyt osana siellä harjoitettavaa theravada-buddhalaisuutta. Hieronta ei alunperin ollut ammatti, vaan munkkien tapa sekä harjoittaa läsnäoloa ja rakastavaa ystävällisyyttä että palvella ympäröivää yhteiskuntaa. Tässä hengessä pyrin thaihierontaa itsekin harjoittamaan, vaikka en olekaan munkki. Hieronnassa myös vastaanottaja voi halutessaan avautua syvillekin kokemuksille tai saada hoidosta tukea omalle henkiselle polulleen.
+Kuten joogakin, thaijoogahieronta on kehollisen puolensa ohella myös hengellinen perinne. Se on saanut joogiset juurensa Intiasta ja se on Thaimaassa kehittynyt osana siellä harjoitettavaa theravada-buddhalaisuutta. Hieronta ei alunperin ollut ammatti, vaan munkkien tapa sekä harjoittaa läsnäoloa ja rakastavaa ystävällisyyttä että palvella ympäröivää yhteiskuntaa. Tässä hengessä pyrin thaihierontaa itsekin harjoittamaan, vaikka en olekaan mikään munkki. Hieronnassa myös vastaanottaja voi halutessaan avautua syvillekin kokemuksille tai saada hoidosta tukea omalle henkiselle polulleen.
 
 Moni kuitenkin ottaa hieronnan vastaan rentoutuakseen tai hoitaakseen kehoaan. Paikalle voi tulla omista lähtökohdistaan ja ottaa vastaan sen mikä itselle toimii.
 
