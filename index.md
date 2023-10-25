@@ -7,7 +7,7 @@ image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
 
 {% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Thaijoogahieronta</h1>" text-position="top-left" %}
 
-Olen Liekki Ilola, hieroja ja joogaopettaja. Tarjoan aitoa thaijoogahierontaa torstaisin Töölön <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> ja muina päivinä kotini hoitohuoneessa <a class="textlink" href="/yhteystiedot#viikinmäki">Viikinmäessä</a>. Pidän myös hierontatyöpajoja <a class="textlink" href="/yhteystiedot#pasila">Pasilassa</a> 4.11 ja 2.12 klo 16-19.
+Olen Liekki Ilola, hieroja ja joogaohjaaja. Tarjoan aitoa thaijoogahierontaa torstaisin Töölön <a class="textlink" href="https://jooga.fi">Joogakoulu Shantissa</a> ja muina päivinä kotini hoitohuoneessa <a class="textlink" href="/yhteystiedot#viikinmäki">Viikinmäessä</a>. Pidän myös hierontatyöpajoja <a class="textlink" href="/yhteystiedot#pasila">Pasilassa</a> 4.11 ja 2.12 klo 16-19.
 
 Voit varata ajan hierontaan tai ilmoittautua työpajaan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksessa</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a class="textlink" href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
 
