@@ -116,7 +116,7 @@
 </svg>
 
     <header class="header">
-  <div class="container">
+  <div class="container container--header">
     <a class="logo" href="/">
   <img src="/assets/logos/site_logo.png" alt="Liekki Wellness logo"/>
 </a>
@@ -168,11 +168,7 @@
 
   // Hide nav and apply toggle
   const collapseNav = () => {
-    if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-    } else {
-      navList.removeAttribute('style')
-    }
+    navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
 
     button.onclick = () => {
       navList.style.setProperty('transition', `margin .1s`)
@@ -182,6 +178,7 @@
         navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
       }
     }
+    
   }
 
   collapseNav()
@@ -191,7 +188,6 @@
     collapseNav()
   })
 </script>
-
   </div>
 
 </header>
