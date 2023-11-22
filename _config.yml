@@ -104,6 +104,8 @@ navigation_header:
   url: /minusta/
 - title: Yhteystiedot
   url: /yhteystiedot/
+- title: Kauppa
+  url: /kauppa/
 
 # Footer nav
 navigation_footer:
