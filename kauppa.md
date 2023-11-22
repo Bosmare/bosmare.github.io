@@ -2,7 +2,7 @@
 layout: page
 title: "Kauppa"
 excerpt: "Lahjakortteja ja tulevaisuudessa muutakin mukavaa."
-image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
+image: "/assets/kuvat/puerh-tee-ja-seremoniakaakao.jpg"
 ---
 
 {% include text-on-image.html img-url="/assets/kuvat/puerh-tee-ja-seremoniakaakao.jpg" img-alt="Puerh -teetä ja seremoniakaakaota savikulhoissa." text="<h1>Kauppa</h1>" text-position="top-left" %}
