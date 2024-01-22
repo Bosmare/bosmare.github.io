@@ -7,13 +7,13 @@ image: "/assets/kuvat/thaijoogahieronta-kollaasi.jpg"
 
 
 {% comment %}
-	<li><a class="textlink" href="/yhteystiedot#pasila">Pasila</a>: Thaihierontatyöpaja 2.12 klo 16-19 </li>
 	<li><a class="textlink" href="/yhteystiedot#töölö">Töölö</a>: Hierontaa torstaisin</li>
-	<li><a class="textlink" href="/yhteystiedot#Viikinmäki">Viikinmäki</a>: Hierontaa muina päivinä</li>
 {% endcomment %}
+
 <ul>
-	<li> Olen lomalla 11.12.2023 - 21.1.2024! </li>
-	<li> I'm on holiday from 11th December 2023 to 21st January 2024 </li>
+	<li>Olen palannut lomalta! :)</li>
+	<li><a class="textlink" href="/yhteystiedot#Viikinmäki">Viikinmäki</a>: Hierontahoitoja tarjolla Ma-Su</li>
+	<li><a class="textlink" href="/yhteystiedot#pasila">Pasila</a>: Hierontatyöpajoja suunnitteilla keväälle</li>
 </ul>
 
 <script type="text/javascript" language="javascript">(function(d,s,i,c,j,a){a=d.getElementsByTagName(s)[0];if(d.getElementById(i))return;j=d.createElement(s);j.id=i;j.async=1;j.setAttribute("data-c",c);j.src="https://static.vello.fi/js/wizard/vwiz.js";a.parentNode.insertBefore(j,a);}(document,"script","vello-wizard-sdk","liekki-wellness"));</script>
