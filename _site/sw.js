@@ -1,8 +1,8 @@
-const version = '20240122171821';
+const version = '20240716130134';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/08/27/ex3/","/history/external%20sources/2018/08/27/ex2/","/general/external%20sources/2016/08/27/example-post-one/","/ajanvaraus/","/blogi/","/","/kauppa/","/minusta/","/robots.txt","/assets/styles.css","/uutiskirje/","/yhteystiedot/","/manifest.json","/assets/search.json","/redirects.json","/feed.xml","/sitemap.xml","/assets/logos/logo64.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2019/08/27/ex3/","/history/external%20sources/2018/08/27/ex2/","/general/external%20sources/2016/08/27/example-post-one/","/ajanvaraus/","/blogi/","/","/kauppa/","/kosmos/","/minusta/","/robots.txt","/assets/styles.css","/uutiskirje/","/yhteystiedot/","/manifest.json","/assets/search.json","/redirects.json","/feed.xml","/sitemap.xml","/assets/logos/logo64.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
