@@ -5,14 +5,18 @@ image: "/assets/kuvat/thaijoogahieronta-kollaasi.jpg"
 ---
 {% include text-on-image.html img-url="/assets/kuvat/thaijoogahieronta-kollaasi.jpg" img-alt="Kolme kuvaa, joissa Liekki Ilola antaa thaijoogahierontaa vaaloisassa salissa." text="<h2>Ajanvaraus</h2>" text-position="bottom-left" %}
 
-Palvelut <a class="textlink" href="/yhteystiedot#Viikinmäki">Viikinmäessä</a>:
 <ul>
-	<li>Hierontahoitoja Ma-Su</li>
-</ul>
-Ryhmätunnit <a class="textlink" href="/yhteystiedot#pasila">Pasilassa</a>:
-<ul>
-	<li>Yhteishierontapäivä La 7.12</li>
-	<li>Thaihieronnan työpaja Ti 3.12</li>
+	<li> Palvelut <a class="textlink" href="/yhteystiedot#Viikinmäki">Viikinmäessä</a>:
+		<ul>
+			<li>Hierontahoitoja Ma-Su</li>
+		</ul>
+	</li>
+	<li> Ryhmätunnit <a class="textlink" href="/yhteystiedot#Pasila">Pasilassa</a>
+		<ul>
+			<li>Yhteishierontapäivä La 7.12</li>
+			<li>Thaihieronnan työpaja Ti 3.12</li>		
+		</ul>
+	</li>
 </ul>
 
 
