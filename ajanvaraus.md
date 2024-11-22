@@ -10,7 +10,7 @@ image: "/assets/kuvat/thaijoogahieronta-kollaasi.jpg"
 	<li> Ryhmätunnit <a class="textlink" href="/yhteystiedot#Pasila">Pasilassa</a>:
 		<ul>
 			<li><a class="textlink" href="https://www.facebook.com/events/1228224081740516">Yhteishierontapäivä</a> La 7.12</li>
-			<li>Thaihieronnan työpaja Ti 3.12</li>		
+			<li><a class="textlink" href="https://www.facebook.com/events/1328576498123013/1328576501456346/">Thaihieronnan työpaja</a> Ti 3.12</li>		
 		</ul>
 	</li>
 </ul>
