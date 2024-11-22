@@ -9,7 +9,7 @@ image: "/assets/kuvat/thaijoogahieronta-kollaasi.jpg"
 	<li> Palvelut <a class="textlink" href="/yhteystiedot#Viikinmäki">Viikinmäessä</a>: Hierontahoitoja Ma-Su </li>
 	<li> Ryhmätunnit <a class="textlink" href="/yhteystiedot#Pasila">Pasilassa</a>:
 		<ul>
-			<li>Yhteishierontapäivä La 7.12</li>
+			<li><a class="textlink" href="https://www.facebook.com/events/1228224081740516">Yhteishierontapäivä</a> La 7.12</li>
 			<li>Thaihieronnan työpaja Ti 3.12</li>		
 		</ul>
 	</li>
