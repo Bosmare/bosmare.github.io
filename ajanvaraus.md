@@ -7,7 +7,7 @@ image: "/assets/kuvat/thaijoogahieronta-kollaasi.jpg"
 
 <ul>
 	<li> Olen muuttanut ja tarjoan hoitoja ensisijaisesti Helsingin Koskelassa</li>
-  	<li> Olen hieromassa Littoisissa Elos -festivaaleilla 8-10.8 - <a class="textlink" href="https://calendar.app.google/7V9Dgm3uZfKiARgq6"> Ajanvaraus </a>
+  	<li> Olen hieromassa Littoisissa Elos -festivaaleilla 8-10.8 - <a class="textlink" href="https://calendar.app.google/7V9Dgm3uZfKiARgq6"> Ajanvaraus </a> </li>
 </ul>
 
 <script async src="https://static.vello.fi/embed/v1.js" data-url="liekki-wellness" data-lang="fi"></script>
