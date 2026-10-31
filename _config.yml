@@ -96,7 +96,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Header nav
 navigation_header:
-- title: Thaijoogahieronta
+- title: Palvelut
   url: /
 - title: Ajanvaraus
   url: /ajanvaraus/
