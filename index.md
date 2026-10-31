@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Thaijoogahieronta"
+title: "Palvelut"
 excerpt: "Tarjoan aitoa thaijoogahierontaa Koskelassa."
 image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
 ---
 
 {% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Thaijoogahieronta</h1>" text-position="top-left" %}
 
-Olen Liekki Ilola, hieroja ja joogaohjaaja. Tarjoan aitoa thaijoogahierontaa kotini hoitohuoneessa Helsingin <a class="textlink" href="/yhteystiedot#Koskela">Koskelassa</a>. Ohjaan myös flow- ja yin-joogaa Flamingo Spa:ssa torstaisin.
+Olen Liekki Ilola, hieroja ja joogaohjaaja. Tarjoan joogaohjausta ja hierontapalvleuita kotini hoitohuoneessa Helsingin <a class="textlink" href="/yhteystiedot#Koskela">Koskelassa</a>. Ohjaan myös flow- ja yin-joogaa Flamingo Spa:ssa torstaisin.
 
-Voit varata ajan hierontaan <a class="textlink" href="/ajanvaraus">netti-ajanvarauksessa</a>. Työpajoista ja muusta toiminnastani pysyt parhaiten ajan tasalla tilaamalla <a class="textlink" href="/yhteystiedot#uutiskirje">uutiskirjeeni</a>. Olen myös kiinnostunut koti-, työ- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a class="textlink" href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
+Voit varata ajan hierontaan tai joogaohjaukseen <a class="textlink" href="/ajanvaraus">netti-ajanvarauksesta</a>. Työpajoista ja muusta toiminnastani pysyt parhaiten ajan tasalla tilaamalla <a class="textlink" href="/yhteystiedot#uutiskirje">uutiskirjeeni</a>. Olen myös kiinnostunut koti-, työpaikka- ja tapahtumakeikoista. Niistä voit olla yhteyksissä <a class="textlink" href="mailto:info@liekki-wellness.fi">sähköpostitse</a>.
 
 <div class="video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/cj9GIa5cMHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
