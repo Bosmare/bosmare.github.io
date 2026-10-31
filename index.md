@@ -5,7 +5,7 @@ excerpt: "Tarjoan joogaohjausta sekä aitoa thaijoogahierontaa Koskelassa."
 image: "/assets/kuvat/jalkojen-koukistus-venytys.jpg"
 ---
 
-{% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Thaijoogahieronta</h1>" text-position="top-left" %}
+{% include text-on-image.html img-url="/assets/kuvat/jalkojen-koukistus-venytys.jpg" img-alt="Thaihieroja venyttää vastaanottajan reisiä, pakaroita ja alaselkää koukustamalla tämän jalkoja kohti rintakehää." text="<h1>Palvelut</h1>" text-position="top-left" %}
 
 Olen Liekki Ilola, hieroja ja joogaohjaaja. Tarjoan joogaohjausta ja aitoa thai-joogahierontaa kotini hoitohuoneessa Helsingin <a class="textlink" href="/yhteystiedot#Koskela">Koskelassa</a>. Ohjaan myös flow- ja yin-joogaa Flamingo Spa:ssa torstaisin.
 
